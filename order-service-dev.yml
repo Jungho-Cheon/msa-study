@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/test_db
+    url: jdbc:postgresql://order-db:5432/postgres
     username: eden
     password: paroxx645213
 
