@@ -1,6 +1,7 @@
 spring:
   datasource:
     url: jdbc:postgresql://payment-db:5432/postgres
+    driver: org.postgresql.Driver
     username: eden
     password: paroxx645213
 
